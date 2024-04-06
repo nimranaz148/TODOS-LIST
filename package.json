@@ -1,15 +1,16 @@
 {
-  "name": "todos-list",
+  "name": "todos-list-12",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "todos.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.12.2"
